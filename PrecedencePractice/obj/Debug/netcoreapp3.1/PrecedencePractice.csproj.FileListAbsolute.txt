@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\bin\Debug\netcoreapp3.1\PrecedencePractice.exe
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\bin\Debug\netcoreapp3.1\PrecedencePractice.deps.json
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\bin\Debug\netcoreapp3.1\PrecedencePractice.runtimeconfig.json
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\bin\Debug\netcoreapp3.1\PrecedencePractice.runtimeconfig.dev.json
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\bin\Debug\netcoreapp3.1\PrecedencePractice.dll
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\bin\Debug\netcoreapp3.1\PrecedencePractice.pdb
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\obj\Debug\netcoreapp3.1\PrecedencePractice.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\obj\Debug\netcoreapp3.1\PrecedencePractice.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\obj\Debug\netcoreapp3.1\PrecedencePractice.AssemblyInfo.cs
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\obj\Debug\netcoreapp3.1\PrecedencePractice.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\obj\Debug\netcoreapp3.1\PrecedencePractice.dll
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\obj\Debug\netcoreapp3.1\PrecedencePractice.pdb
+C:\Users\owner\source\repos\PrecedencePractice\PrecedencePractice\obj\Debug\netcoreapp3.1\PrecedencePractice.genruntimeconfig.cache
