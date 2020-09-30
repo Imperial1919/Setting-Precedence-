@@ -28,6 +28,10 @@ namespace PrecedencePractice
             // The compiler goes from right to left, or simply <----------
             sum = 7 - (4 + 2);
             Console.WriteLine("Example of Forced Direction: " + sum);
+
+            Console.WriteLine("T-t-t-t-t-t-t-t-tt that's all folks!");
+
+
         }
     }
 }
