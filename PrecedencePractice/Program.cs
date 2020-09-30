@@ -29,7 +29,7 @@ namespace PrecedencePractice
             sum = 7 - (4 + 2);
             Console.WriteLine("Example of Forced Direction: " + sum);
 
-            Console.WriteLine("T-t-t-t-t-t-t-t-tt that's all folks!");
+            Console.WriteLine("T-t-t-t-t-t-t-t-tt that's all folks! :D " );
 
 
         }
